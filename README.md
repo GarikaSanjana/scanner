@@ -33,20 +33,3 @@ You can view or host this page anywhere (like GitHub Pages or Netlify).
 
 ---
 
-## 🧩 How It Works
-
-1. The page automatically detects its current URL.
-2. It requests a QR code from [api.qrserver.com](https://goqr.me/api/).
-3. The QR image is displayed on the page — scanning it opens this same page.
-4. You can share that QR or link to connect easily.
-
----
-
-## 🛠️ Setup Instructions
-
-### Option 1 — GitHub Pages
-1. Fork or download this repository.  
-2. Go to **Settings → Pages**.  
-3. Under “Source”, choose **Deploy from main branch**.  
-4. Save and wait a minute.  
-5. Your page will be live at:
